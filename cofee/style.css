@@ -1,0 +1,154 @@
+.main{
+    background-color: #B68A67;
+    width: 98vw;
+    height: 650px;
+}
+.main h1{
+    color: white;
+    font-size: 50px;
+}
+.main-title{
+    width: 35vw;
+    height: 10vw;
+    left: 100px;
+    letter-spacing: 2px;
+    font-family: sans-serif;
+    position: relative;
+    top: 150px;
+    display: inline-block;
+}
+.main-title span{
+    color:#A2445E
+}
+.main img{
+    margin-left: 50px;
+    margin-top: 70px;
+    position: absolute;
+}
+.product h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.product-title p{
+     width: 50vw;
+     font-size: 24px;
+     margin-left: 30%;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    width: 150px;
+    height: 40px;
+    background-color: #A2445E;
+    border: none;
+    border-radius: 10px;
+    color: black;
+    font-size: 17px;
+    opacity: 0.9;
+
+}
+.product button{
+    margin-top: 20px;
+    margin-left: 42vw;
+}
+.product button:hover{
+    opacity: 1;
+    color: white;
+}
+.product-img {
+    margin-top: 100px;
+    margin-left: 200px;
+    
+}
+.product-img img{
+    margin: 20px;
+    width: 400px;
+}
+.memeber{
+    width: 100%;
+    height: 40px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    color: white;
+    background-color: #B68A67;
+}
+.memeber h3{
+    text-align: center;
+    vertical-align: middle;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.memeber img{
+    width: 100%;
+    margin-top: 20px;
+}
+.memeber h1{
+    color: rgb(87, 82, 82);
+    font-size: 30px;
+    text-align: center;
+    
+}
+.member{
+    height: 40px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: white;
+    background-color: #B68A67; 
+}
+.customer{
+    margin-top: 600px;
+    margin-left: 10px;
+}
+.card{
+    width: 50%;
+    height: 200px;
+    margin: 20px;
+
+}
+.card img{
+    width: 20vw;
+    margin: 20px;
+}
+.customer h1{
+    font-size: 32px;
+    margin-left: 53%;
+    margin-top: -180px;
+    color:#7A4444
+}
+.paragraf{
+    width: 30vw;
+    margin-left: 53%;
+    font-size: 30px;
+   color: rgb(83, 80, 80);
+   margin-top: 50px;
+}
+.paragraf button{
+    color: white;
+    margin-left: 100px;
+
+}
+.footer{
+    margin-top: 300px;
+}
+.footer img{
+    width: 100%;
+}
+.footerImg{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(227, 234, 240);
+    display: inline-block;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.tugadi{
+    margin-top: 30px;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(73, 68, 68);
+    color: white;
+}
+.tugadi h1{
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
